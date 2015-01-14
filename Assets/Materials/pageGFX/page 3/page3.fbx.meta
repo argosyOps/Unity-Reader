@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: e81535576f9394e42bf480c6e991a524
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: andrew_001
+    100002: andrew_sink
+    100004: BG_fx
+    100006: foreground
+    100008: ike_001
+    100010: ike_foreground
+    100012: ike_leftarm
+    100014: ike_rightarm
+    100016: kyle
+    100018: mask_000
+    100020: mask_001
+    100022: //RootNode
+    100024: panel1
+    100026: panel2
+    100028: UCD_Hyperion_USA_cover_2_03
+    100030: UCD_Hyperion_USA_cover_2_05
+    100032: UCD_Hyperion_USA_cover_2_10
+    100034: UCD_Hyperion_USA_cover_2_14
+    100036: water_soap
+    400000: andrew_001
+    400002: andrew_sink
+    400004: BG_fx
+    400006: foreground
+    400008: ike_001
+    400010: ike_foreground
+    400012: ike_leftarm
+    400014: ike_rightarm
+    400016: kyle
+    400018: mask_000
+    400020: mask_001
+    400022: //RootNode
+    400024: panel1
+    400026: panel2
+    400028: UCD_Hyperion_USA_cover_2_03
+    400030: UCD_Hyperion_USA_cover_2_05
+    400032: UCD_Hyperion_USA_cover_2_10
+    400034: UCD_Hyperion_USA_cover_2_14
+    400036: water_soap
+    2300000: andrew_001
+    2300002: andrew_sink
+    2300004: BG_fx
+    2300006: foreground
+    2300008: ike_001
+    2300010: ike_foreground
+    2300012: ike_leftarm
+    2300014: ike_rightarm
+    2300016: kyle
+    2300018: mask_000
+    2300020: mask_001
+    2300022: panel1
+    2300024: panel2
+    2300026: UCD_Hyperion_USA_cover_2_03
+    2300028: UCD_Hyperion_USA_cover_2_05
+    2300030: UCD_Hyperion_USA_cover_2_10
+    2300032: UCD_Hyperion_USA_cover_2_14
+    2300034: water_soap
+    3300000: andrew_001
+    3300002: andrew_sink
+    3300004: BG_fx
+    3300006: foreground
+    3300008: ike_001
+    3300010: ike_foreground
+    3300012: ike_leftarm
+    3300014: ike_rightarm
+    3300016: kyle
+    3300018: mask_000
+    3300020: mask_001
+    3300022: panel1
+    3300024: panel2
+    3300026: UCD_Hyperion_USA_cover_2_03
+    3300028: UCD_Hyperion_USA_cover_2_05
+    3300030: UCD_Hyperion_USA_cover_2_10
+    3300032: UCD_Hyperion_USA_cover_2_14
+    3300034: water_soap
+    4300000: panel2
+    4300002: ike_001
+    4300004: foreground
+    4300006: BG_fx
+    4300008: andrew_001
+    4300010: UCD_Hyperion_USA_cover_2_14
+    4300012: UCD_Hyperion_USA_cover_2_10
+    4300014: mask_001
+    4300016: mask_000
+    4300018: panel1
+    4300020: UCD_Hyperion_USA_cover_2_05
+    4300022: UCD_Hyperion_USA_cover_2_03
+    4300024: kyle
+    4300026: andrew_sink
+    4300028: ike_rightarm
+    4300030: ike_leftarm
+    4300032: ike_foreground
+    4300034: water_soap
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
