@@ -13,15 +13,15 @@ public class TextUpdate : MonoBehaviour {
 
 	}
 
-	void Update (){
-		WhatPage ();
-		txt.text="PAGE " + PageNumber + " of 32";
-	}
+//	void Update (){
+//		WhatPage ();
+//		txt.text="PAGE " + PageNumber + " of 32";
+//	}
 	
-	//What Page is this?
-	void WhatPage() {
-		GameObject thePlayer = GameObject.Find("Page");
-		controller playerScript = thePlayer.GetComponent<controller>();
-		PageNumber = playerScript.pageNum;
-	}
+//	//What Page is this?
+//	void WhatPage() {
+//		GameObject thePlayer = GameObject.Find("Page");
+//		controller playerScript = thePlayer.GetComponent<controller>();
+//		PageNumber = playerScript.pageNum;
+//	}
 }

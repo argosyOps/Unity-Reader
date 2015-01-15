@@ -78,7 +78,20 @@ public class buttonClickControl : MonoBehaviour {
 		GameObject Hot = GameObject.Find("Page Menu");
 		Hot.GetComponent<SlideOut>().TriggerOut();
 
+
+
 }
+
+	//Animate and move thumbnails after selecting one
+	public void disappearSettings() {
+		
+	
+		GameObject Hot = GameObject.Find("Settings");
+		Hot.GetComponent<SlideOut>().TriggerOut();
+		
+		
+		
+	}
 
 	public void SelectThumb(){
 		//Find page number and highlight thumbnail

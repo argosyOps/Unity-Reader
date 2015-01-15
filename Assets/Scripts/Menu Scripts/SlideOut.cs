@@ -188,7 +188,9 @@ public class SlideOut : MonoBehaviour {
 		
 		
 	}
-	
+
+//Activate thumbnail menu
+
 	public void activateThumbnailMenu(){
 		
 		TriggerOutSubMenu ();
@@ -197,6 +199,21 @@ public class SlideOut : MonoBehaviour {
 		panelNavigation.GetComponent<CanvasActivationControl> ().DisableCanvas ();
 		
 		GameObject Hot = GameObject.Find ("Page Menu");
+		Hot.GetComponent<SlideOut> ().TriggerIn ();
+		
+		
+	}
+
+	//Activate Settings menu
+	
+	public void activateSettingsMenu(){
+		
+		TriggerOutSubMenu ();
+		
+		canvasNavigation.GetComponent<CanvasActivationControl> ().DisableCanvas ();
+		panelNavigation.GetComponent<CanvasActivationControl> ().DisableCanvas ();
+		
+		GameObject Hot = GameObject.Find ("Settings");
 		Hot.GetComponent<SlideOut> ().TriggerIn ();
 		
 		

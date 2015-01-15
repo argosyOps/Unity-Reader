@@ -27,6 +27,9 @@ public class loading_prefab : MonoBehaviour {
 		//Load Page Menu
 		GameObject PageMenu = (GameObject)Instantiate(Resources.Load("Page Menu"));
 
+		//Settings Menu
+		GameObject Settings = (GameObject)Instantiate(Resources.Load("Settings"));
+
 
 
 
@@ -35,6 +38,7 @@ public class loading_prefab : MonoBehaviour {
 		camera.name = camera.name.Replace("(Clone)", "");
 		PageMenu.name = PageMenu.name.Replace("(Clone)", "");
 		SubMenu.name = SubMenu.name.Replace("(Clone)", "");
+		Settings.name = Settings.name.Replace("(Clone)", "");
 
 	}
 
