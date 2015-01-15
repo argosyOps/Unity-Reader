@@ -253,6 +253,13 @@ public class SlideOut : MonoBehaviour {
 		canvasNavigation.GetComponent<CanvasActivationControl> ().EnableCanvas ();
 		panelNavigation.GetComponent<CanvasActivationControl> ().EnableCanvas ();
 
+
+		//Inactivate swipe script
+
+		GameObject canvasNav = GameObject.Find ("CanvasNav");
+		
+		canvasNav.GetComponent<touchControlCenter>().enabled = false;
+
 	}
 	
 	public void Deactive(){
@@ -263,6 +270,14 @@ public class SlideOut : MonoBehaviour {
 	public void Activate(){
 		canvasNavigation.GetComponent<CanvasActivationControl> ().EnableCanvas ();
 		panelNavigation.GetComponent<CanvasActivationControl> ().EnableCanvas ();
+	}
+
+	public void ActivateSwipeScript() {
+		//Activate swipe script
+		
+		GameObject canvasNav = GameObject.Find ("CanvasNav");
+		
+		canvasNav.GetComponent<touchControlCenter>().enabled = true;
 	}
 	
 }
