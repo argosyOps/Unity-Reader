@@ -17,7 +17,7 @@ public class loading_prefab : MonoBehaviour {
 		GameObject comicPrefab = (GameObject)(Resources.Load("scoliosis"));
 
 		//Load First Page of Comic
-		GameObject pageFind = comicPrefab.transform.Find("page2").gameObject;
+		GameObject pageFind = comicPrefab.transform.Find("page4").gameObject;
 
 		GameObject page = (GameObject)Instantiate(pageFind);
 

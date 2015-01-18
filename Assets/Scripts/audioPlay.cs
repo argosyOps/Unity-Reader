@@ -23,10 +23,18 @@ public class audioPlay : MonoBehaviour {
 
 
 
+	void Start() {
+		background1 = GameObject.Find("background1");
+		background2 = GameObject.Find("background2");
+
+	}
+
 
 	void Update(){
 
 		//Handle background1 fade out
+
+
 		background1.audio.volume = background1_vol;
 		if (background1.audio.volume > 0 && background1_fadeout_active == 1) {
 			background1_vol_fadeout ();

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 45ad4a068ca154d28bfe3253a71578be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cell 1
+    21300002: Kyle
+    21300004: Pump
+    21300006: UCD_Hyperion_USA_cover_8_03
+    21300008: UCD_Hyperion_USA_cover_8_15
+    21300010: bg tunnel
+    21300012: cell 2
+    21300014: cells BG
+    21300016: gastro
+    21300018: medi jet
+    21300020: Midground Cells
+    21300022: UCD_Hyperion_USA_cover_8_06
+    21300024: UCD_Hyperion_USA_cover_8_22
+    21300026: chi
+    21300028: jets
+    21300030: skindy
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cell 1
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 1686
+        width: 711
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kyle
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1072
+        width: 1397
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midground Cells
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2672
+        width: 533
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2
+        width: 2345
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UCD_Hyperion_USA_cover_8_03
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2
+        width: 460
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UCD_Hyperion_USA_cover_8_06
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3390
+        width: 565
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UCD_Hyperion_USA_cover_8_15
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2507
+        width: 330
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UCD_Hyperion_USA_cover_8_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2672
+        width: 660
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg tunnel
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 1209
+        height: 2668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cell 2
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1686
+        width: 644
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cells BG
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1279
+        width: 375
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chi
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 2552
+        width: 826
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gastro
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 434
+        width: 425
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2508
+        width: 1197
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medi jet
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1072
+        width: 1014
+        height: 1434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skindy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2672
+        width: 500
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

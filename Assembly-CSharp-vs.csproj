@@ -65,12 +65,29 @@
      <Compile Include="Assets\Scripts\orientation.cs" />
      <Compile Include="Assets\Scripts\raycaster.cs" />
      <Compile Include="Assets\Scripts\renderBounds.cs" />
+     <Compile Include="Assets\UnitySpineImporter\3DParty\CurveExtension\CurveExtension.cs" />
+     <Compile Include="Assets\UnitySpineImporter\3DParty\CurveExtension\KeyframeUtil.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\AttachmentGOByName.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\AttachmentGOByNameBySlot.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Skin\Skin.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Skin\SkinSlot.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Skin\SkinSlotAttachment.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\SkinController.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\SkinSlotGO.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Slot\Attachment.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Slot\AttachmentType.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\Slot\Slot.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\SlotGOByName.cs" />
+     <Compile Include="Assets\UnitySpineImporter\SharedScripts\SlotGOByNameBySkinName.cs" />
      <None Include="Assets\Materials\pageGFX\psdDigest.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/Raudaschl/Google Drive/medikidz-comic-reader/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>/Users/Raudaschl/Google Drive/medikidz-comic-reader/Assets/UnitySpineImporter/3DParty/LitJson/LitJson.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

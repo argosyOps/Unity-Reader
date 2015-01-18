@@ -1,0 +1,166 @@
+
+Page.png
+size: 4056,4084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UCD_Hyperion_USA_cover_8_11
+  rotate: true
+  xy: 3964, 1933
+  size: 560, 90
+  orig: 560, 90
+  offset: 0, 0
+  index: -1
+UCD_Hyperion_USA_cover_8_17
+  rotate: false
+  xy: 2889, 6
+  size: 675, 275
+  orig: 675, 275
+  offset: 0, 0
+  index: -1
+abacus
+  rotate: true
+  xy: 3566, 15
+  size: 266, 459
+  orig: 266, 459
+  offset: 0, 0
+  index: -1
+liver bg
+  rotate: false
+  xy: 2, 2
+  size: 2885, 4080
+  orig: 2885, 4080
+  offset: 0, 0
+  index: -1
+medi jet2
+  rotate: false
+  xy: 2889, 283
+  size: 1073, 2210
+  orig: 1073, 2210
+  offset: 0, 0
+  index: -1
+snot
+  rotate: true
+  xy: 2889, 2495
+  size: 1587, 1107
+  orig: 1587, 1107
+  offset: 0, 0
+  index: -1
+
+Page2.png
+size: 4060,3622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cell 1
+  rotate: false
+  xy: 3302, 1072
+  size: 711, 864
+  orig: 711, 864
+  offset: 0, 0
+  index: -1
+Kyle
+  rotate: true
+  xy: 2656, 1938
+  size: 612, 1397
+  orig: 612, 1397
+  offset: 0, 0
+  index: -1
+Midground Cells
+  rotate: true
+  xy: 504, 48
+  size: 902, 533
+  orig: 902, 533
+  offset: 0, 0
+  index: -1
+Pump
+  rotate: true
+  xy: 1701, 2552
+  size: 1068, 2345
+  orig: 1068, 2345
+  offset: 0, 0
+  index: -1
+UCD_Hyperion_USA_cover_8_03
+  rotate: false
+  xy: 1213, 3190
+  size: 460, 430
+  orig: 460, 430
+  offset: 0, 0
+  index: -1
+UCD_Hyperion_USA_cover_8_06
+  rotate: false
+  xy: 2900, 2
+  size: 565, 230
+  orig: 565, 230
+  offset: 0, 0
+  index: -1
+UCD_Hyperion_USA_cover_8_15
+  rotate: false
+  xy: 2900, 610
+  size: 330, 505
+  orig: 330, 505
+  offset: 0, 0
+  index: -1
+UCD_Hyperion_USA_cover_8_22
+  rotate: false
+  xy: 1039, 55
+  size: 660, 895
+  orig: 660, 895
+  offset: 0, 0
+  index: -1
+bg tunnel
+  rotate: true
+  xy: 2, 952
+  size: 2668, 1209
+  orig: 2668, 1209
+  offset: 0, 0
+  index: -1
+cell 2
+  rotate: false
+  xy: 2656, 1117
+  size: 644, 819
+  orig: 644, 819
+  offset: 0, 0
+  index: -1
+cells BG
+  rotate: true
+  xy: 1213, 1255
+  size: 1088, 375
+  orig: 1088, 375
+  offset: 0, 0
+  index: -1
+chi
+  rotate: true
+  xy: 3232, 234
+  size: 836, 826
+  orig: 836, 826
+  offset: 0, 0
+  index: -1
+gastro
+  rotate: false
+  xy: 1213, 2345
+  size: 425, 843
+  orig: 425, 843
+  offset: 0, 0
+  index: -1
+jets
+  rotate: false
+  xy: 1701, 119
+  size: 1197, 995
+  orig: 1197, 995
+  offset: 0, 0
+  index: -1
+medi jet
+  rotate: true
+  xy: 1640, 1116
+  size: 1434, 1014
+  orig: 1434, 1014
+  offset: 0, 0
+  index: -1
+skindy
+  rotate: false
+  xy: 2, 29
+  size: 500, 921
+  orig: 500, 921
+  offset: 0, 0
+  index: -1
